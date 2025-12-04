@@ -1,2 +1,4 @@
-# services-grid
-WordPress plugin: Services CPT + AJAX grid + gallery without ACF Pro
+# Services Grid (без ACF Pro)
+
+Плагін додає CPT «Послуги», поле «Ціна» через ACF (free) та власну галерею зображень без ACF Pro.
+Шорткод [services_grid] виводить грід послуг із AJAX-пагінацією, фільтром за ціною, слайдером і lazyload.
